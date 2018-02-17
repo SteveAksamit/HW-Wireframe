@@ -1,0 +1,54 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 18px;
+    line-height: 32px;
+    font-family: 'Ariel', 'Helvetica', 'Helvetica, sans-serif;
+    color: #777;
+    padding: 10px
+}
+
+.container {
+    display: flex;
+    width: 100%;
+    max-width: 960px;
+    margin: 10 auto;
+    clear: both;
+}
+
+#topofpage {
+    background:#777;
+    display: flex;
+    width: 100%;
+}
+
+#section-container {
+    background:#777;
+    display: flex;
+    width: 100%;
+}
+
+#bio-container {
+    display: flex;
+    width: 100%;
+}
+
+.footer {
+    display: flex;
+    width: 100%;
+    max-width: 960px;
+    margin: 10 auto;
+    clear: both;
+    background: #777;
+}
+
+/* Need to organize the links within the nav bar.
+nav {
+
+}
+*/
+
+
+
